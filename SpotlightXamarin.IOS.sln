@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotlightXamarin.IOS", "SpotlightXamarin.IOS\SpotlightXamarin.IOS.csproj", "{0EE7B492-5CCC-4848-8D1B-3AD6DEB524D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotlightXamarin.IOS.App", "SpotlightXamarin.IOS.App\SpotlightXamarin.IOS.App.csproj", "{0673B70A-0633-49EA-A719-BF942289F4DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotlightXamarin.IOS_App", "SpotlightXamarin.IOS_App\SpotlightXamarin.IOS_App.csproj", "{0673B70A-0633-49EA-A719-BF942289F4DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

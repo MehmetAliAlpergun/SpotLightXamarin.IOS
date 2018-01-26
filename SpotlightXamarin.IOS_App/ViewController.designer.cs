@@ -5,7 +5,7 @@
 //
 using Foundation;
 
-namespace SpotlightXamarin.IOS.App
+namespace SpotlightXamarin.IOS_App
 {
     [Register("ViewController")]
     partial class ViewController

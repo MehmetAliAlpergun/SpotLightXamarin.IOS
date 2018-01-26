@@ -1,6 +1,6 @@
 ﻿using UIKit;
 
-namespace SpotlightXamarin.IOS.App
+namespace SpotlightXamarin.IOS_App
 {
     public class Application
     {

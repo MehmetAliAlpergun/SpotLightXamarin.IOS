@@ -1,8 +1,9 @@
 ﻿using System;
 using CoreGraphics;
+using SpotlightXamarin.IOS;
 using UIKit;
 
-namespace SpotlightXamarin.IOS.App
+namespace SpotlightXamarin.IOS_App
 {
     public partial class ViewController : UIViewController
     {
