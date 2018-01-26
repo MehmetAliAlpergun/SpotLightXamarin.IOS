@@ -7,7 +7,7 @@ Xamarin Android version: https://github.com/MehmetAliAlpergun/SpotLightXamarin
 Spotlight
 --------
 
-![screen](https://github.com/MehmetAliAlpergun/SpotLightXamarin.IOS/blob/master/Screens/SpotlightIOS.gif)
+<img src="https://github.com/MehmetAliAlpergun/SpotLightXamarin.IOS/blob/master/Screens/SpotlightIOS.gif" width="300">
 
 
 Usage
